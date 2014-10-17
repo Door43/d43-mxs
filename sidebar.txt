@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxs:home|Door43 (mxs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxs|d43-mxs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxs/archive/master.zip|d43-mxs.zip]]
+
+**Recent Changes**
+{{changes>ns = mxs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxs|Ethnologue data]]
+
